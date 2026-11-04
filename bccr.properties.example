@@ -1,0 +1,4 @@
+# Copie este archivo a bccr.properties y coloque su token generado en Mi Perfil del BCCR.
+# La opcion 4 del menu tambien permite guardar el token en este archivo.
+# BCCR_TOKEN se usa cuando no hay un token guardado.
+token=
